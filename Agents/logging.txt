@@ -1,0 +1,13 @@
+Your conversation Log History:
+Human: Hi I am Steve
+AI: Hi Steve! It's nice to meet you. How can I help you today?
+Human: good mornign
+AI: Good morning to you too, Steve! I hope you're having a great start to your day. What can I do for you this morning?
+Human: tell me a joke
+AI: Okay, Steve, here's one for you:
+
+Why don't scientists trust atoms?
+
+Because they make up everything!
+
+End of conversation log.
