@@ -13,5 +13,20 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+*.egg-info/
+dist/
+build/
+*.rdb
+
+# ChromaDB (vector store data)
+chroma/
+
 # OS
 .DS_Store
